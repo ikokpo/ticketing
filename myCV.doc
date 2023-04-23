@@ -1,0 +1,114 @@
+Iheaka K. OKPO
+Phone: +2348030825205 | Email: iheakaokpo@gmail.com | https://www.linkedin.com/in/iheakaokpo 
+AWS Cloud & DevOps Engineer 
+A detail-oriented DevOps Engineer with over 2 year of working on CI/CD pipelines, container orchestration tools, computing, security, identity & access management, monitoring, event management, governance & compliance, application delivery, data protection, image, and patch management in the AWS platform and also third-party tools to design, build monitor and maintain CI/CD pipelines.
+CORE SKILLS
+Linux OS
+Docker
+Docker Swarm
+Kubernetes
+Ingress
+SonarQube
+Powershell	
+Jenkins
+Git Bash
+Github
+CI/CD on Jenkins
+IaaS
+Web Applications
+AWS Administation	
+Python Scripting
+Tomcat
+Nexus
+Maven
+Terraform
+Ansible
+Devops	
+Bash Scripting
+Yaml
+Load Balancing
+SQL
+Grafana
+Helm
+Azure
+
+WORK EXPERIENCE
+Junior Devops Engineer, Oxdit Technologies, Contract
+March 2022 - Present, Remote
+➔Used Docker for building images and containerization of applications as well as Kubernetes for container management and orchestration
+➔Utilized AWS resources including EC2, EKS, Auto-Scaling, Elastic LB, S3, Cloud Formation, RDS, DynamoDB, VPC, Route53, SNS, SQS.
+➔Apply Helm as a Kubernetes package manager to deploy and install applications in the clusters
+➔Utilized various Kubernetes deployment strategy such recreating, rolling update, canary etc to allow for seamless application update
+➔Peering VPC with other accounts for easy data transfer and communication in the cloud.
+➔Used Terraform to provision a full environment used and Ansible for infrastructure provisioning and configuration i.e. EKS, VPC, Route53, EC2 instances, etc. in cloud
+➔Utilized various Kubernetes deployment strategy such recreating, rolling update, canary etc to allow for seamless application update
+➔Used Slack for build notifications and Jira for tracking and ticketing
+➔Deployed Microservices using Kubernetes
+➔Configuring Application Lifecycle Management (ALM) tools like JIRA, and Confluence to track the progress of the project
+➔Creating Jenkins Environment and configuring end to end build pipe lines
+➔Configure security VPCs in AWS with the use of Cloud formation
+➔Setting up auto triggers like poll SCM, build periodically and webhooks for periodic build
+
+Systems Administrator, Bluebox Macromedia, Full Time
+May 2021 - Feb 2022, Lagos, Nigeria
+➔Configured Elastic Load Balancers with Auto scaling groups and attaching to Instances.
+➔Provide architecture and configure secure VPCs in AWS including peering of VPC networks
+➔Analyze and resolve conflicts related to the merging of source code for GIT.
+➔Design, develop, automate, deploy, scale and manage both private and public cloud environments.
+➔Use Jenkins to install, configure and administer CI/CD
+➔Provide security using the least access rule to manage users and group’s access and quota using AWS IAM and creating new policies for user management
+➔Utilizing various Kubernetes deployment strategies such recreating, rolling update, canary etc to allow for seamless application update
+➔Successfully implemented migration from monolithic architecture to microservices architecture
+➔Monitor pipeline and design procedures for troubleshooting and maintenance
+➔Worked with multiple project managers from different vendors to understand the release plans and provided support according to their requirements.
+➔Performed application installation, upgrades/patches, troubleshooting, and maintenance and monitoring of Linux servers.
+➔Provisioned Multi-regional VPCs with Private and Public Subnet on AWS
+➔Used Terraform for configuration, provision, and managing Infrastructure.
+➔Integrated SonarQube with Jenkins for continuous inspection of code quality, junit tests and bug tracking
+➔Created and maintained fully automated CI/CD pipelines for code deployment using Jenkins to reduce human error and speed up production processes by 40%
+➔Integrating Antifactory into our CI/CD Pipeline to ensure applicable backup in the case of any downtime or for disaster.
+➔Install, configure and maintain operating systems, application software and system management tools.
+➔Manage and monitor network and system performance.
+➔Plan and implement system security measures, such as firewalls and data backups.
+➔Create and manage user accounts and permissions.
+➔Monitor system resource usages, such as disk space and memory.
+➔Perform system upgrades and updates.
+➔Provide technical support and troubleshoot system issues.
+➔Ensure data protection and data privacy.
+➔Maintain system documentation.
+➔Collaborate with other teams to implement new systems and technologies.
+
+Microsoft Administrator/ IT Support, Union Bank Nigeria, Full Time
+May 2016 - February 2021, Lagos Nigeria
+➔Manage user accounts and licenses, including creating new user accounts, managing user passwords, and assigning licenses to users.
+➔Configure and manage email and calendaring
+➔Administer security and compliance, including setting up multi-factor authentication, implementing data retention policies, and monitoring for security threats.
+➔Manage mobile devices, setting up mobile device management policies, managing access to company data on mobile devices, and ensuring device security.
+➔Manage and monitor network and resource usage: This involves monitoring network bandwidth usage, setting up resource quotas, and ensuring network security.
+➔Plan and implement updates and upgrades
+➔Monitor system health and performance such as monitoring the performance of Microsoft 365 services, monitoring system logs, and addressing performance issues as they arise.
+➔Provide technical support and training to end-users including providing support to end-users for issues related to Microsoft 365, as well as providing training and education on the use of Microsoft 365 services.
+Head Sales & Service Associates, Union Bank Nigeria, Lagos, Full Time		
+October 2013 - December 2015, Lagos, Nigeria
+➔Overseeing branch operations and customer service.
+➔Driving branch sales and growth targets.
+➔Training and managing branch staff.
+➔Developing and implementing branch retail sales and marketing strategies.
+➔Maintaining branch compliance with bank policies and regulations.
+➔Building and maintaining relationships with customers and community partners.
+➔Analyzing branch performance data and making data-driven decisions.
+➔Developing and managing branch budgets.
+➔Continuously improving branch processes and systems to increase efficiency and customer satisfaction.
+
+Customer Service Executive, Union Bank Nigeria, Lagos, Full Time		
+May 2009 - October 2013, Lagos, Nigeria
+➔Resolved customer inquiries and complaints.
+➔Processed account transactions (e.g. deposits, withdrawals, transfers).
+➔Assisted with account maintenance (e.g. updating contact information).
+➔Provided account information and explaining bank products and services.
+➔Cross-sold bank products and services.
+➔Provided performance reports on customer service performance to the Head, Branch Operations
+EDUCATION & CREDENTIALS
+Bachelor of Engineering in Electrical and Electronic Engineering 2007 (2nd Class Upper Division) Federal University of Technology Owerri (WES Evaluated)
+ 
+
